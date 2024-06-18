@@ -1,0 +1,4 @@
+export const PAYMENT_STATUS = {
+    DECLINED : "DECLINED",
+    CONFIRMED: "CONFIRMED"
+}
